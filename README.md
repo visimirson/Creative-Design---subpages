@@ -6,9 +6,9 @@ https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/
 Technologies
 Project is created with:
 
-HTML
-CSS
-JavaScript
-SASS/SCSS
+HTML,
+CSS,
+JavaScript,
+SASS/SCSS.
 
 
