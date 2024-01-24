@@ -7,8 +7,6 @@ Technologies
 Project is created with:
 
 HTML,
-CSS,
-JavaScript,
-SASS/SCSS.
+CSS.
 
 
